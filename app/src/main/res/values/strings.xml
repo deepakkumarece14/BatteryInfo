@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BatteryInfo</string>
+    <string name="time_since_boot">Time Since Boot:  </string>
+    <string name="battery_technology">Battery Technology:  </string>
+    <string name="battery_temperature">Battery Temperature:  </string>
+    <string name="battery_voltage">Battery Voltage:  </string>
+    <string name="battery_health">Battery Health:  </string>
+    <string name="battery_scale">Battery Scale:  </string>
+    <string name="battery_level">Battery Level:  </string>
+    <string name="power_plug">Power Plug:  </string>
+    <string name="battery_status">Battery Status:  </string>
+
+    <string name="charging">Charging</string>
+    <string name="not_charging">Not Charging</string>
+    <string name="ac_power">AC Power</string>
+    <string name="usb_plugged">USB Plugged</string>
+    <string name="cold">Cold</string>
+    <string name="dead">Dead</string>
+    <string name="good">Good</string>
+    <string name="overheat">Overheat</string>
+    <string name="over_voltage">Over Voltage</string>
+    <string name="not_plugged">Not Plugged</string>
+    <string name="unknown">Unknown Health</string>
+    <string name="unspecified_failure">Unspecified failure</string>
+    <string name="wireless_charging">Wireless Charging</string>
+</resources>
